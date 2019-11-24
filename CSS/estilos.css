@@ -5,9 +5,6 @@ propiedades
 valores css
 */
 
-header{
-    background-color: pink;
-}
 
 /*selector de etiqueta header - section - article - nav etc*/
 /*selector descendente*/
@@ -18,3 +15,8 @@ header{
 /*.link*/
 /*Selector de id "#"*/
 /*#portafolio*/
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
